@@ -1,0 +1,38 @@
+Privacy Policy — [YOUR APP NAME]
+Effective date: [11 | 10 |2026] App: [Tayyab Badri] (desktop application) Developer: [Tayyab Badri]
+1. What [YOUR APP NAME] does
+[Tayyab Badri] is a desktop application that helps page operators schedule and publish videos to the Facebook Pages they manage, using the official Facebook Graph API. It also shows analytics for those Pages and their videos. The app runs on your own computer — there is no cloud backend operated by us that receives your data.
+2. Data we access through Facebook
+When you connect your Facebook account, the app requests only the permissions it needs to function. Each permission is used strictly for the purpose described:
+	•	Page list — to show the Facebook Pages you manage so you can choose which Pages receive scheduled posts.
+	•	Page posts and engagement — to display your Pages' posts inside the app, power the Analytics tab (views, engagement, follower growth), and verify posting rights for the Health tab.
+	•	Publishing to Pages — to upload the videos you queue to the Pages you selected. Only content you provide is published, and only to Pages you chose.
+	•	Page and video insights — to pull daily Page metrics and per-video performance into the Analytics tab. Only data the Facebook API returns is shown; nothing is fabricated.
+We do not access your personal Facebook profile data, your friends list, messages, or any Page you did not connect.
+3. Data we store
+All app data is stored locally on your own computer in the app's local database. This includes:
+	•	Facebook Page IDs and names of Pages you connected;
+	•	Access tokens needed to publish and read analytics on your behalf;
+	•	Your posting queue: video file references, captions, schedules, and safety settings;
+	•	Analytics snapshots (views, engagement, follower counts) synced from Facebook.
+We operate no servers that collect, receive, or store this data. Your data never leaves your device except in direct API calls to Facebook that you initiated (for example, uploading a video).
+4. What we never do
+	•	We do not sell your data.
+	•	We do not share your data with advertisers, data brokers, or any third party.
+	•	We do not use your data for advertising or profiling.
+	•	We do not post to Facebook on your behalf except for the scheduled videos you queued yourself.
+5. Data security
+Access tokens and account data are kept in the app's local encrypted storage on your device. Because the data lives on your computer, keeping your device secure (operating-system updates, disk encryption, not sharing the device) is the main protection. If your device is lost or compromised, disconnect the app from Facebook immediately (see Section 6).
+6. Data deletion
+You can delete your data at any time:
+	•	In the app: disconnect Facebook in the app settings — this deletes the stored access tokens. Uninstalling the app, or deleting the app's data folder, removes the local database including queue history and analytics snapshots.
+	•	On Facebook: go to Facebook Settings → Apps and Websites → remove "[Tayyab Badri]". This revokes the app's access immediately; any data Facebook holds is governed by Facebook's own Data Policy.
+	•	By request: email us at [ah9298251@gmail.com] with the subject "Data Deletion Request" and we will confirm what local data to remove and guide you through it.
+7. Children's privacy
+[Tayyab Badri] is a business tool for page operators and is not directed at children under 13. We do not knowingly collect data from children.
+8. Changes to this policy
+If we change this policy, we will update the effective date above and publish the new version on this page. Material changes will also be noted in the app's release notes.
+9. Contact
+For privacy questions or data requests, contact: [Tayyab Badri] Email: [ah9258251@gmail.com]
+[TAyyab Badri] · [Tayyab Badri]
+
